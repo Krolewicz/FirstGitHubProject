@@ -8,6 +8,7 @@ namespace FirstGitHubProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Dodatkowa linia");
+            Console.WriteLine("COś");
         }
     }
 }
